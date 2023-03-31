@@ -1,26 +1,25 @@
-
 <div align='center'>
-  <img src='https://raw.githubusercontent.com/computefoundation/home/images/computingfoundation_logo-padded.png' width='40%' alt='computingfoundation_logo-padded.png'>
+  <img src='https://raw.githubusercontent.com/computefoundation/home/images/computefoundation_logo-padded.png' width='40%' alt='computefoundation_logo-padded.png'>
 </div>
-<br><br><br>
+<br><br>
 
-The Compute Foundation is an organization conglomerating common low-level solutions in open source programming.
+**The Compute Foundation** is an organization conglomerating low-level solutions in open source programming.
 
-Overall, it's goal is to provide solutions that at least 60% of programmers use.
+These solutions are **foundational** to open source compute problems.
 
-All solutions also follow standrad guidelines for formatting. Each guideline exists in the Wiki of each member repository.
+All solutions follow a formatting guideline, which can be found in the wiki page of their respective repositories.
 
 # Members
 
-* [Gnu-linux-shell-scripting](https://github.com/computingfoundation/gnu-linux-shell-scripting)  
-  A foundation for GNU/Linux shell use
+* [Gnu-linux-shell-scripting](https://github.com/computefoundation/gnu-linux-shell-scripting)  
+  A foundation for GNU/Linux shell scripting
 
-* [Gnu-linux-management](https://github.com/computingfoundation/gnu-linux-management)  
+* [Gnu-linux-management](https://github.com/computefoundation/gnu-linux-management)  
   A foundation for GNU/Linux management
 
-* [Gnu-linux-application-management](https://github.com/computingfoundation/gnu-linux-application-management)  
+* [Gnu-linux-application-management](https://github.com/computefoundation/gnu-linux-application-management)  
   A foundation for GNU/Linux application management
 
-* [Enterprise-android-application-development](https://github.com/computingfoundation/enterprise-android-application-development) *(Coming soon)*  
-  A foundation for enterprise Android application development
+* [Enterprise-android-foundation](https://github.com/computefoundation/enterprise-android-foundation) *(Coming soon)*  
+  A foundation for large-scale user-based Android client-server applications
 
